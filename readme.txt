@@ -1,6 +1,9 @@
 # Weather Forecast API
 
 This is a simple Flask-based API that provides weather forecast data, including short forecasts and temperature characterizations, based on latitude and longitude inputs. The data is fetched from the National Weather Service API.
+https://www.weather.gov/documentation/services-web-api
+
+Used the /gridpoints/{wfo}/{x},{y}/forecast endpoint for this project under specification section.
 
 ## Requirements
 
